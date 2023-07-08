@@ -6,6 +6,15 @@
   <li>EXPRESS JS AS FRAMEWORK</li>
   <li>MONGO DB AS SERVER</li>
 </ul>
+<h2>How to Run:</h2>
+<ul>
+  <li>Download zip file in local computer</li>
+  <li> run folder in in vs code</li>
+  <li> open terminal and run command :  <code>npm install</code></li>
+  <li>Now , run command  : <code>npm start</code></li>
+  <li>Now open browser , open address : <code> 127.0.0.1:3000 </code></li>
+  <li>TRY 127.0.0.1:3000/products</li>
+</ul>
 <H2>Description : </H2>
 This api contains 3 endpoints : 
 <ul>
